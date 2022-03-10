@@ -1,0 +1,30 @@
+https://materializecss.com/
+
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+https://michalsnik.github.io/aos/
+https://simplelightbox.com/
+
+
+For the lineal resources
+https://getwaves.io/
+
+Damos uso de CSS Grid y @media query: con el objetivo de hacer nuestra web responsive
+Secciones para redirigir desde el nav
+
+https://michalsnik.github.io/aos/
+Para dar direccionamiento de salida de los elementos de la web
+Debemos pegar el css y el script mas el archivo de inicializacion de ultimo
+
+https://app.netlify.com/
+Para subir nuestro sitio web
+
+https://relaxed-wozniak-3f99f2.netlify.app
+Link del siito web
+
+
+
